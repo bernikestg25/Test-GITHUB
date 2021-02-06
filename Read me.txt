@@ -1,0 +1,6 @@
+How to Run project using Katalon
+1. Open Katalon
+2. Open Project
+3. Select Test Suites
+4. Double click Login to Logout github
+5. Run Project
